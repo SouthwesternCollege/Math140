@@ -20,7 +20,7 @@ Before you start working with the code in this repository, make sure you have th
 
 - A basic understanding of computer programming using the Java programming language
 - A code editor or an integrated development environment (Preferable IntelliJ)
-- - A JDK and algs4.jar installed
+- A JDK and algs4.jar installed
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ To get started, follow these steps:
 
 2. Navigate to the cloned repository:
 
-```cd Math-140```
+```cd Math140```
 
 3. Each lab is organized in a separate directory. Open the lab directory you want to explore.
 4. Inside each lab directory, you'll find the source code files and a README file with instructions specific to that lab.

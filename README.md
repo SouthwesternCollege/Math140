@@ -56,7 +56,7 @@ To get started, follow these steps:
 If you would like to contribute to this repository by adding new labs, improving existing code, or fixing bugs, please follow these steps:
 
 1. Fork this repository by clicking the "Fork" button at the top right corner of this page.
-2. Clone your forked repository to your local machine:
+2. Clone your forked repository to your local machine or to your GitHub account.
 3. Create a new branch for your changes:
 
 ```git checkout -b feature/your-feature-name```

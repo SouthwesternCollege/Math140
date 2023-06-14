@@ -4,15 +4,28 @@ This repository contains the source code for the labs in the Math 140 Data Struc
 
 ## Lab List
 
-0. Lab 0: Java Basics
-1. Lab 1: Introduction to Algorithms
-2. Lab 2: Arrays and Linked Lists
-3. Lab 3: Stacks and Queues
-4. Lab 4: Binary Trees
-5. Lab 5: Sorting Algorithms
-6. Lab 6: Graphs and Graph Traversal
-7. Lab 7: Dynamic Programming
-8. Lab 8: Hash Tables
+0. Java Basics
+1. OOP and ADTs
+2. IO
+3. Bags
+4. Linked Lists
+5. Stacks (Array Based)
+6. Stacks (Linked List Based)
+7. Queues
+8. Recursion
+9. Algorithm Analysis
+10. Union Find
+11. Elementary Sorts
+12. Mergesort
+13. Quicksort
+14. Heaps, Heapsort
+15. Symbol Tables
+16. Binary Search Trees
+17. Balanced Search Trees
+18. Hash Tables
+19. Graphs
+20. Breadth First Search
+21. Depth First Search
 
 ## Prerequisites
 

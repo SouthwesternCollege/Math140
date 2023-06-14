@@ -1,4 +1,4 @@
-package Lab0;
+package lab0;
 
 public class ArrayTools {
     public static double max(double[] numbers) {

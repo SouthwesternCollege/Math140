@@ -1,4 +1,4 @@
-package Lab1;
+package lab1;
 
 public class Counter implements Comparable<Counter>{
     private int count;

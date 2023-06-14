@@ -1,6 +1,4 @@
-package Lab1;
-
-import edu.princeton.cs.algs4.StdRandom;
+package lab1;
 
 public class Flip {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lab0;
+package lab0;
 
 public class StringTools {
     public static boolean isDigit(char ch) {

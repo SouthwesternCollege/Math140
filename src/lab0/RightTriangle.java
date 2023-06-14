@@ -1,4 +1,4 @@
-package Lab0;
+package lab0;
 
 import edu.princeton.cs.algs4.StdDraw;
 

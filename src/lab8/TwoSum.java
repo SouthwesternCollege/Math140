@@ -1,4 +1,4 @@
-package lab9;
+package lab8;
 
 import edu.princeton.cs.algs4.Stopwatch;
 
